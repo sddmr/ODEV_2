@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("Öğrenci Bilgileri");
         for (int i = 0; i < ogrenciler.length; i++) {
-            ganocont(ogrenciler[i].getGano());
+            ganoCont(ogrenciler[i].getGano());
             System.out.println("OGR-" + (i+1) + " " + ogrenciler[i]);
         }
         for (int i = 1; i < ogrenciler.length; i++) {
@@ -19,7 +19,7 @@ public class Main {
 
         }
     }
-    public static void ganocont (double gano) throws IllegalAccessException {
+    public static void ganoCont (double gano) throws IllegalAccessException {
         if (gano<0 || gano>4){
             throw new IllegalAccessException("Geçerli bir gano giriniz!");
         }
