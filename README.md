@@ -7,6 +7,7 @@
 ![gano](https://github.com/sddmr/ODEV_2/assets/143207714/ca903930-983f-48b1-bf03-5a144509780c)
 <br></br>
 # UML diagram
-![uml](https://github.com/sddmr/ODEV_2/assets/143207714/f3d43d86-b555-4ccf-9511-f55478279bfa)
+![WhatsApp Görsel 2024-03-11 saat 23 57 11_febc5455](https://github.com/sddmr/ODEV_2/assets/143207714/ada54a99-d4c8-4f6e-a2e7-97fba777d5ac)
+
 
 
